@@ -1,9 +1,9 @@
 * {
     backgroundcolor: #001E26;
-    bg1: #073642;
+    bg1: #001E26;
     backgroundcoloralternate: #001E26;
-    separatorcolor: #002731;
-    scrollbarcolor: #4e5759;
+    separatorcolor: #001E26;
+    scrollbarcolor: #001E26;
     foregroundcolor: #b9b9b9; // #d5c4a1;
     foregroundcolorinverse: #002731;// #282828;
     selectioncolor: #52676F; // #98971a
